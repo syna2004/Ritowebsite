@@ -32,6 +32,17 @@ const MOODS = {
   miss: {
     title: "I miss you too",
     notes: [
+      `Hi Kutu,
+
+      I thought really long and hard about what I wanted to say here but nothing quite fit. I guess I can’t quite expect to do that. Not when there are so many things I am thinking and feeling as the day I leave comes closer. In some part it doesn’t even feel real. Like… what do you mean I can’t wake up every day with you? What do you mean I can’t eat the dinners you cook? What do you mean I can’t kiss and cuddle with you at the end of a long day and fall asleep knowing all is right as long as you’re with me? It can’t be real. I simply can’t picture it. All I can picture is you and me together. Happy.
+
+      There is something very bittersweet about loving someone so much that even being on the opposite sides of the world can’t do much to keep you apart. I’m sorry I couldn’t make our present situation better and I’m sorry I have to put us through this. All I can do now is promise you I will everything I need to come back to you. I will come back to you. There is no universe in which I’m alive and don’t come back to you.
+
+      You’re my home Kutu. I still remember the day I realized I loved you. It was a month into dating and we had a pretty bad fight and we were planning to talk things out. You went to the Putnam that day and then met me at Geisel. Then we started driving home and we saw the colors in the sky and decided to stop to watch the sunset at the beach. The beauty of that scene in front of us you — it hit me that I didn’t want to be anywhere else in the world. All I needed in life was to be next to you. You glowing in the light of that sunset, the breeze in your hair, your hand in mine — it’s forever etched in my mind. I knew I had to be with you. That you were probably the one for me. I still think you are.
+
+      And then we proceeded to go through a rollercoaster of a first year together. Time was kind and unkind to us. I love the fact that we got to live together for a whole year and have so much time together. I suppose it was time given with conditions though, namely PTSD, several urgent care and ER trips, and a wonderful vacation where we almost broke up cuz I like to sleep on vacation and you don’t 💀
+
+      It’s been a hell of a journey with you Kutu and I want so so so much more of it. I love you mind, body, and soul.`,
       "I really do love. I will move mountains and try to make something work so I can make my way back to you. Home is where you are Kutu and I want to go home with you. We both know this distance is necessary. I would have loved to be with you in Boston and you would have loved being with me in India. But we both know we need careers. We value both our careers and each other's careers.",
       "Jobs are bullshit.",
       "Babe can you build something to teleport me there pwease. Just long enough to cuddle and never let go",
