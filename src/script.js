@@ -20,28 +20,28 @@ const MOODS = {
       "If this is about your research, I got you. Say it with me, 'Ritogoon is a smort goon'. \n \n Go on. I know you didn't do it. \n \n Say it. \n \n Stubborn fucker. That's what has made you an excellent researcher (though sometimes it is also the trait that makes me wanna pull my own hair out). You don't take no for an answer when you want something. When one way of doing things doesn't work, you like to improvise another. You're the guy that steps up, tries his best, and if things go wrong, you're the guy that reflects and makes a change. This is what makes you a good boyfriend. This is also what will take you super far in your career.",
       "Take a minute to look at how far you've come from where you started. Seriously, let's do it. You're the nerdy Indian kid from STEM who expected so much more from his college applications yet 'only got UCSD'. Think about how silly that sounds in hindsight, yet you were upset like anyone of your caliber would be. \n \n But then life happened. \n \n You met Albert, you met Chard, you met Anthony, and... meeeee! One and only, yours truly \u{1f618} \n Point being, it's not the end of the world. You're good at making the most of what you have right now. If something doesn't quite go right in the moment, that doesn't say anything about how happy or sad you will be about the same thing in 10 days. Stay strong and call me soon <3",
       "Sometimes a day is too fucked to unfuck it. Go read a book or take a nap or jump around orrrrr if you're really out of options... think of me and goon. \n\n ... \n\n Meow! It was just a sugesstion. \n\n Seriously though, go look at the pictures from our first date. The one where we went to Piatti, fucked in your car, then got ice cream and went to the country club and made out with u on my lap. \n\n Think about how happy we were when you told me you got into MIT and I came running to find you in the CSE basement. Then we sneaked off to a corner and made out, only to find that there was a class next to us that got the full show they definitely didn't ask for. \n\n Think about the first time we celebrated pujo together and had the classic Indian American experience. And we got cholaar daal and luchi! \n\n Think about the way you felt all the times when you picked me up from South Station. \n\n There are so many things that have made you who you are kutu and you're the most wonderful gist life has ever given me. Your smile makes my day and your tears break my heart. Whatever it is, I got you love. Call me.",
+      "Slow down and think about what's really making you sad kutu. Do it in the therapy way. I'm sure you've picked some of that up",
     ],
   },
   proud: {
     title: "You overachiever, I knew you'd do something good ;)",
     notes: [
-      "So obviously I assume you have texted me about this thing already (I know when you're likely to text me and when you're likely to not \u{1f609}). I am so so so proud of you. I would be regardless of whether you achieved this particular milestone or not, but I'm so happy you did.",
+      "So obviously I assume you have texted me about this thing already (I know when you're likely to text me and when you're likely to not \u{1f609}). I am so so so proud of you. I would be regardless of whether you achieved this particular milestone or not, but I'm so happy you did. I believe in you Kutu. No matter what happens, I believe in you. You are the one who has moved mountains for me when I needed it and I know you can do it for yourself too. You're my sweet lil goon. Muah.",
     ],
   },
   miss: {
     title: "I miss you too",
     notes: [
-      "I miss you too, more than I can say. Every day apart is one day closer to the day we're together.",
-      "Look at the moon tonight. I'm looking at the same one, thinking of you.",
-      "Missing you is just proof of how much I love you. It hurts a little, but it's the best kind of hurt.",
+      "I really do love. I will move mountains and try to make something work so I can make my way back to you. Home is where you are Kutu and I want to go home with you. We both know this distance is necessary. I would have loved to be with you in Boston and you would have loved being with me in India. But we both know we need careers. We value both our careers and each other's careers.",
+      "Jobs are bullshit.",
+      "Babe can you build something to teleport me there pwease. Just long enough to cuddle and never let go",
     ],
   },
   doubt: {
     title: "Read this slowly",
     notes: [
-      "I know the distance is hard. It's hard for me too. But I chose you, and I would choose you again, every day.\n\nThis is not forever. It's a chapter, and we are writing it together.",
-      "On the hard days, remember why we started. Remember how it feels when we're together. That's what we're working toward.\n\nI'm not going anywhere.",
-      "If you're feeling like there's no point, please talk to me. Don't carry it alone. Whatever you're feeling is okay to say out loud, and we will figure it out together.",
+      "You're probably reading this because we're really going through it this time. It might have been over something that we would have kissed and made up over in like 5 minutes. If that not then maybe in day we would have been fine. But that's just not the situation we're in right now I suppose. \n\n I want to tell you all the reasons I want to stay with you and give us a real shot at making it through this. \n\n You're the love of my life Kutu. I have never felt anything close to the way you make me feel. You're every other thought in my head, everything comes back to you. Every little thing makes me go, 'I wonder what Kutu would think of this' or 'Kutu would smile at this' or 'Oh this would make Kutu rant my head off for the rest of the day'. It's rare to find a love like that. A love that can be so firey and passionate that we lose sense of everything else but each other and drives us crazy. Sometimes too crazy. \n\n The thing is, I expect the bulk of our problems to occur because we miss each other beyond belief. We're meant to wake up next to each other, make meals together, have you steal all my berries, have me laughing at you for trying to put the leftover chicken in a closed box, have you call me bloody Ravan because of the way I laugh, and look into each other's eyes and seeing everything we ever wished for in them.",
+      "Good things are worth waiting for. Good times with you are worth waiting for. We have had so many good times this past year, love, I wouldn't give any of it up for the world. I'm in it to marry you. To make you mine one day. To put an end to us ever being apart and building the life we always wanted. I still see that life with you. I still see what I'm doing this for. It's so hard and so painful and unbearable on some days. \n \n The thing I want at the end is worth it though Kutu. We're worth it."
     ],
   },
 };
