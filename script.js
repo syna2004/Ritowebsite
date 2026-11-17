@@ -44,7 +44,7 @@ const MOODS = {
 
       It’s been a hell of a journey with you Kutu and I want so so so much more of it. I love you mind, body, and soul.`,
       "I really do love. I will move mountains and try to make something work so I can make my way back to you. Home is where you are Kutu and I want to go home with you. We both know this distance is necessary. I would have loved to be with you in Boston and you would have loved being with me in India. But we both know we need careers. We value both our careers and each other's careers.",
-      "Jobs are bullshit.",
+      "Jobs are bullshit. They have no right to keep us apart.",
       "Babe can you build something to teleport me there pwease. Just long enough to cuddle and never let go",
     ],
   },
